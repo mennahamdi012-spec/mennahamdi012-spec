@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Menna Allah Hamdi
 
-🎓 Management & Accounting Student at Al-Shorouk Academy 
-💻 Aspiring Front-End Developer
+🎓 Management & Accounting Student at Al-Shorouk Academy | 
+💻 Aspiring Front-End Developer | 
 🚀 Passionate about building modern websites and bridging the gap between Business and Technology.
 
 ---
