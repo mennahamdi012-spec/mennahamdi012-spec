@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/USERNAME/assets/main/banner.png" width="100%">
+</p>
 # Hi there 👋 I'm Menna Allah Hamdi
 
 🎓 Management & Accounting Student at Al-Shorouk Academy | 
