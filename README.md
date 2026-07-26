@@ -10,7 +10,7 @@
 ## 🛠️ Tech Stack
 - HTML5
 - CSS3
-- Bootstrap (Currently Learning)
+- Bootstrap 
 - Git & GitHub
 
 ### 📖 Learning Roadmap
