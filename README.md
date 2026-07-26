@@ -1,18 +1,25 @@
-### Hi there 👋 I'm Menna Allah Hamdi 
+# Hi there 👋 I'm Menna Allah Hamdi
 
-- 💻 Management & Accounting Student at Al-Shorouk Academy
-- 🚀 Frontend Developer in progress...
-- 📊 Passionate about bridging the gap between Business and Code!
-
----
-
-### 🛠️ Tech Stack & Learning Roadmap:
-- **Languages & Core:** HTML5, CSS3, JavaScript (ES6+)
-- **Styling & Frameworks:** Bootstrap, Tailwind CSS, SASS
-- **Libraries & Tools:** React.js, Redux, Next.js, Git & GitHub
-- **Other Skills:** OOP, SOLID Principles, Clean Architecture
+🎓 Management & Accounting Student at Al-Shorouk Academy  
+💻 Aspiring Front-End Developer  
+📚 Currently learning HTML, CSS, Bootstrap, Git & GitHub  
+🚀 Passionate about building modern websites and bridging the gap between Business and Technology.
 
 ---
 
-### 📫 How to reach me:
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/menna-allah-hamdi-gamaa-a39914410)
+## 🛠️ Tech Stack
+- HTML5
+- CSS3
+- Bootstrap (Currently Learning)
+- Git & GitHub
+
+### 📖 Learning Roadmap
+- JavaScript
+- React.js
+- Responsive Web Design
+- UI/UX Basics
+
+---
+
+## 📫 Connect with me
+- 💼 LinkedIn: https://www.linkedin.com/in/menna-allah-hamdi-gamaa-a39914410
