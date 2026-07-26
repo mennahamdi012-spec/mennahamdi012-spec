@@ -1,4 +1,5 @@
-# Hi there 👋 I'm Menna Allah Hamdi
+# Hi there 👋
+I'm Menna Allah Hamdi
 
 🎓 Management & Accounting Student at Al-Shorouk Academy | 
 💻 Aspiring Front-End Developer | 
